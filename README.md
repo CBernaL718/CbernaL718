@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm <br><br>- 🔭 working <br>- 📚 currently <br>- ⚡ ...</p>
+<p align="left">I'm 🔭 working 📚 currently ...</p>
 
 ###
 
