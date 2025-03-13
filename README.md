@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">wassup 👋</h1>
+<h1 align="center">Wassup 👋</h1>
 
 ###
 
