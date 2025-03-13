@@ -11,11 +11,7 @@
 
 <h3 align="left">About Me</h3>
 
-Father of 3 </p> BKLYN, NY </p>
-
-###
-
-<p align="left"> I'm currently working 📚 ...</p>
+Father of 3 </p> BKLYN, NY </p> Data Analytics </p>
 
 ###
 
