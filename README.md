@@ -11,8 +11,7 @@
 
 <h3 align="left">About Me</h3>
 
-Father of 3
-BKLYN, NY
+Father of 3 </p> BKLYN, NY </p>
 
 ###
 
