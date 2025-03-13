@@ -9,13 +9,14 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
-FATHER of 3
+Father of 3
+BKLYN, NY
 
 ###
 
-<p align="left">🔭 I'm currently working 📚 ...</p>
+<p align="left"> I'm currently working 📚 ...</p>
 
 ###
 
