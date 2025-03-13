@@ -13,7 +13,3 @@
 Father of 3 </p> BKLYN, NY </p> Data Analytics </p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/CbernaL718/CbernaL718/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
